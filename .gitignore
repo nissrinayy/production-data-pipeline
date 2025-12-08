@@ -1,0 +1,36 @@
+# System
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Env & secrets
+.env
+airflow_settings.yaml
+
+# Airflow runtime
+logs/
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+webserver_config.py
+
+# Astro
+.astro/
+
+# Docker
+*.pid
+
+# dbt artifacts
+data_pipeline/target/
+data_pipeline/dbt_packages/
+data_pipeline/logs/
+
+# Optional: ignore node leftovers
+package-lock.json
