@@ -1,6 +1,6 @@
-🚀 Data Pipeline with Airflow, dbt, and Snowflake 
+🚀# End-to-End Data Engineering Pipeline with Airflow, dbt & Snowflake
 ========
-End-to-End Orchestration & Transformation
+Built a production-style data pipeline simulating real-world orchestration, transformation, and data warehouse integration.
 
 This project demonstrates a fully functional data engineering pipeline built using:
 - Apache Airflow (Astronomer) – Orchestration
