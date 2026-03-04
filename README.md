@@ -1,4 +1,4 @@
-🚀# End-to-End Data Engineering Pipeline with Airflow, dbt & Snowflake
+🚀 End-to-End Data Engineering Pipeline with Airflow, dbt & Snowflake
 ========
 Built a production-style data pipeline simulating real-world orchestration, transformation, and data warehouse integration.
 
